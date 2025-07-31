@@ -21,11 +21,6 @@ The application provides an intuitive and responsive user interface for reportin
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of the UI here)*
-
----
-
 ## 🚧 Future Enhancements
 
 - Backend integration (Node.js + Express + MongoDB)
@@ -34,4 +29,3 @@ The application provides an intuitive and responsive user interface for reportin
 - Admin dashboard for service providers
 
 ---
-ide-Assistant
